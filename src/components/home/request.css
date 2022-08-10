@@ -1,0 +1,68 @@
+
+.log{
+    padding: 20px;
+}
+.umu{
+    position: absolute;
+    width: 178px;
+    height: 29px;
+    left: 122px;
+    top: 83px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    color: #000000; 
+}
+.doc{
+    position: absolute;
+width: 585px;
+height: 423px;
+left: 336px;
+top: 68px;
+}
+.re{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+position: absolute;
+width: 514px;
+height: 174px;
+left: 0px;
+top: 381px;
+
+}
+.easy{
+    position: absolute;
+width: 523px;
+height: 135px;
+left: 90px;
+top: 516px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 20px;
+line-height: 28px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+.btn{
+    background-color:#e1c0d5;
+    display: inline-block;
+    padding: 10px 60px;
+    border-radius: 20px;
+    margin-top: 200px;
+    margin-left: 100px;
+    list-style: none;
+    color: white;
+}

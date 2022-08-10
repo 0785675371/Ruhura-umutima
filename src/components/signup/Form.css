@@ -1,0 +1,104 @@
+.Form{
+  position: relative;
+width: 1512px;
+height: 982px;
+background: #fdf9f9;
+border-radius: 11px;
+}
+.othersi{
+position: absolute;
+width: 716px;
+height: 878px;
+left: 756px;
+top: 54px;
+background: #FFFFFF;
+box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+.title1{
+position: absolute;
+left: 286px;
+top: 54px;
+
+}
+.text1{
+  margin: 0px;
+  color: #181212;
+  font-size: 16px;
+  position: absolute;
+  width: 490.03px;
+  height: 37px;
+  left: 51px;
+  top: 230px;
+  }
+  .email{
+    margin: 0px;
+    color: #181212;
+    font-size: 16px;
+    position: absolute;
+  width: 490.03px;
+  height: 37px;
+  left: 51px;
+  top: 330px;
+  }
+  .password{
+    margin: 0px;
+    color: #181212;
+    font-size: 16px;
+    position: absolute;
+  width: 490.03px;
+  height: 37px;
+  left: 51px;
+  top: 430px;
+  }
+  .password1{
+    margin: 0px;
+    color: #181212;
+    font-size: 16px;
+    position: absolute;
+  width: 490.03px;
+  height: 37px;
+  left: 51px;
+  top: 530px;
+  }
+  .submit2{
+    background: #F1D4EC;
+    display: flex;
+    font-size: 20px;
+    color: rgb(249, 245, 245);
+    cursor: pointer;
+    box-sizing: border-box;
+    position: absolute;
+    width: 200px;
+    height: 48px;
+    left: 181px;
+    top: 698px;
+    border: 1px solid #FFFFFF;
+    
+    }
+    .create{
+      padding-left: 25px;
+      padding-top: 10px;
+    }
+.ima{
+  position: absolute;
+left: 0.11%;
+right: 65.72%;
+top: 8.55%;
+bottom: 8.61%;
+}
+.sign1{
+  position: absolute;
+width: 206px;
+height: 68px;
+left: 200px;
+top: 100px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 68px;
+display: flex;
+align-items: center;
+color: #000000;
+  }
